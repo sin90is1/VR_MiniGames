@@ -39,6 +39,10 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "FieldSystemPlugin",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
