@@ -1,6 +1,8 @@
-# VRTemplate_TAndL
+#VR Blueprint Crash Course
 
-Developed with Unreal Engine 5
+Developed with Unreal Engine 5 a full Bluprint project that is packaged for meta Quest 3 following the great course of "Unreal Engine 5 VR Blueprint Crash Course"
+
+the link to the overview of this repo is (https://www.linkedin.com/posts/sina-ghavami-adel-b1b92a1b2_vr-gamedev-unrealengine-activity-7195905053931589633-uMXP?utm_source=share&utm_medium=member_desktop)
 
 First of all, I had a lot of struggles working with the water plugin in Unreal Engine, especially when packaging and installing it for the Meta Quest. In the end, I found a solution for water in VR by following this method on YouTube: (https://www.youtube.com/watch?v=5B4b9Nk0GnM)
 
